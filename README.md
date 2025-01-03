@@ -1,2 +1,0 @@
-# openxredirect
-OpenXRedirect
